@@ -1,0 +1,2 @@
+rootProject.name = "AudioCutter"
+include ':app'
